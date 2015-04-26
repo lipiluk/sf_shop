@@ -1,0 +1,1 @@
+Przykładowa aplikacja sklepu internetowego stworzonego we framworku Symfony2
